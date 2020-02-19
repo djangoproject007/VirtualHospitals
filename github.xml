@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="079dc4bb-a1be-44ed-b46b-6d04ae293301" name="djangoproject007">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
